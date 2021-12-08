@@ -1,5 +1,10 @@
+<div align= "center">
+<img src= "https://user-images.githubusercontent.com/95309359/145265721-2840e541-d8ae-464f-af20-c911e4c8a507.png" width= "800" height= "800" />
+
+
 # Manjares Navidenos
 ## Arroz con dulce
+</div>
 ### Ingredientes
 -  5 1/2 Tazas de Leche de Coco
 -  1 Onza Jengibre
